@@ -30,3 +30,6 @@ cleaned_hold_release_v5_data.csv
 sample PsychoPy CSV output
 hold_release_demo_v5_skip_release_signal.psyexp
 README.md
+## PsychoPy task file
+
+The `.psyexp` file contains the PsychoPy Builder version of the hold-release demo task. In v5, early-release trials skip the final release-signal routine, so early and final releases are recorded as separate trial types.
